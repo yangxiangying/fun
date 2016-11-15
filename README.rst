@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.org/yangxiangying/fun.svg?branch=master
+   :target: https://travis-ci.org/yangxiangying/fun
+
 .. image:: https://travis-ci.org/dsharpen@icloud.com/fun.svg?branch=master
    :target: https://travis-ci.org/dsharpen@icloud.com/fun
 
